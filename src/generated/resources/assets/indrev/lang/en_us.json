@@ -1,0 +1,21 @@
+{
+  "block.indrev.coolant": "Coolant",
+  "block.indrev.deepslate_lead_ore": "Deepslate Lead Ore",
+  "block.indrev.deepslate_nikolite_ore": "Deepslate Nikolite Ore",
+  "block.indrev.deepslate_silver_ore": "Deepslate Silver Ore",
+  "block.indrev.deepslate_tin_ore": "Deepslate Tin Ore",
+  "block.indrev.deepslate_tungsten_ore": "Deepslate Tungsten Ore",
+  "block.indrev.lead_ore": "Lead Ore",
+  "block.indrev.machine_block": "Machine Block",
+  "block.indrev.nikolite_ore": "Nikolite Ore",
+  "block.indrev.plank_block": "Plank Block",
+  "block.indrev.planks": "Planks",
+  "block.indrev.silver_ore": "Silver Ore",
+  "block.indrev.sulfur_crystal": "Sulfur Crystal",
+  "block.indrev.tin_ore": "Tin Ore",
+  "block.indrev.tungsten_ore": "Tungsten Ore",
+  "item.indrev.guide_book": "Revolutionary Guide",
+  "item.indrev.sawdust": "Sawdust",
+  "item.indrev.sulfur_crystal": "Sulfur Crystal",
+  "itemGroup.indrev": "Industrial Revolution"
+}

@@ -1,0 +1,15 @@
+// 1.21.1	2025-07-25T00:30:57.2246223	Loot Tables
+e12bfec531bbc13ffb3751756a4a4e012ee62141 data/indrev/loot_table/blocks/deepslate_lead_ore.json
+9c0220421b52e49d90517d3653c2537589b05742 data/indrev/loot_table/blocks/deepslate_nikolite_ore.json
+685f0757fc27ec6927a9173255bd83867989da73 data/indrev/loot_table/blocks/deepslate_silver_ore.json
+75e21a49c70324aa903b0fc906361045ed558ae4 data/indrev/loot_table/blocks/deepslate_tin_ore.json
+31084b361d1a9622821c2312a633b315f186217c data/indrev/loot_table/blocks/deepslate_tungsten_ore.json
+0d415fadf5afe2959170545e1681b61459790213 data/indrev/loot_table/blocks/lead_ore.json
+51bd931c21c1631b9d26baffbb7052cb7bf883f5 data/indrev/loot_table/blocks/machine_block.json
+8035052a62df2aae5fa38045834fe050e6557575 data/indrev/loot_table/blocks/nikolite_ore.json
+7af897671e039339d62d59689f344a2c0a3efeca data/indrev/loot_table/blocks/planks.json
+9c0af8c3c14b78a37734c8f3ccb87417c5d103ee data/indrev/loot_table/blocks/plank_block.json
+f10fee5f4962c260e823bb154d70d0453120fcc3 data/indrev/loot_table/blocks/silver_ore.json
+340bd341da8281919499abbfd50bccf3a0776569 data/indrev/loot_table/blocks/sulfur_crystal.json
+ae707a8b9357e3e2d71b341a375a7a23a37a65d0 data/indrev/loot_table/blocks/tin_ore.json
+4360d09bdd484eb322e7f3768c6526819f674f9d data/indrev/loot_table/blocks/tungsten_ore.json
