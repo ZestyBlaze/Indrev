@@ -30,5 +30,5 @@ public class IRBlockRegistry {
     public static final DeferredBlock<Block> PLANK_BLOCK = BLOCKS.registerSimpleBlock("plank_block", BlockBehaviour.Properties.ofLegacyCopy(Blocks.OAK_PLANKS).mapColor(MapColor.COLOR_BROWN).strength(3f, 6f).sound(SoundType.WOOD));
 
     public static final DeferredBlock<LiquidBlock> COOLANT = BLOCKS.register("coolant" ,() -> new LiquidBlock(
-            IRFluidRegistry.COOLANT_FLOWING.get(), BlockBehaviour.Properties.ofLegacyCopy(Blocks.WATER)));
+            IRFluidRegistry.COOLANT_FLOWING.get(), BlockBehaviour.Properties.ofFullCopy(Blocks.WATER).noLootTable()));
 }

@@ -25,8 +25,8 @@ public class IndustrialRevolution {
         IRItemRegistry.ITEMS.register(bus);
         IRItemRegistry.CREATIVE_MODE_TABS.register(bus);
         IRFeatureRegistry.FEATURES.register(bus);
-        IRFluidRegistry.FLUID_TYPES.register(bus);
         IRFluidRegistry.FLUIDS.register(bus);
+        IRFluidRegistry.FLUID_TYPES.register(bus);
         bus.addListener(this::commonSetup);
     }
 

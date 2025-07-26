@@ -22,8 +22,8 @@ public class IndustrialRevolutionClient {
     @SubscribeEvent
     public static void clientSetup(FMLClientSetupEvent event) {
         event.enqueueWork(() -> {
-            ItemBlockRenderTypes.setRenderLayer(IRFluidRegistry.COOLANT_STILL.get(), RenderType.translucent());
             ItemBlockRenderTypes.setRenderLayer(IRFluidRegistry.COOLANT_FLOWING.get(), RenderType.translucent());
+            ItemBlockRenderTypes.setRenderLayer(IRFluidRegistry.COOLANT_STILL.get(), RenderType.translucent());
         });
     }
 
